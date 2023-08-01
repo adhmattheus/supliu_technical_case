@@ -37,4 +37,4 @@ yarn install
 Para executar a aplicação em modo de desenvolvimento, utilize o seguinte comando:
 yarn dev
 
-Mattheus Adhonnay [Engenheiro de Computaão - Desenvolvedor]
+Mattheus Adhonnay [Engenheiro de Computação - Desenvolvedor]
