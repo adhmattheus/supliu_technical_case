@@ -1,0 +1,66 @@
+/* app.tsx (seu arquivo CSS) */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+body {
+  background-image: url(/src/assets/background.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* Define a altura do contêiner em 100vh (100% da altura da viewport) */
+
+}
+
+/* Smartphones (Retrato) */
+@media (max-width: 639px) {
+  body {
+    background-size: cover;
+    height: 100vh;
+  }
+}
+
+/* Smartphones (Paisagem) */
+@media (min-width: 640px) and (max-width: 767px) {
+  body {
+    background-size: cover;
+    height: 100vh;
+  }
+}
+
+/* Tablets */
+@media (min-width: 768px) and (max-width: 1023px) {
+  body {
+    background-size: cover;
+    height: 100vh;
+  }
+}
+
+/* Monitores Pequenos */
+@media (min-width: 1024px) and (max-width: 1279px) {
+  body {
+    background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
+/* Monitores Médios e Laptops */
+@media (min-width: 1280px) and (max-width: 1535px) {
+  body {
+    background-size: cover;
+  }
+}
+
+/* Monitores Grandes e Desktops */
+@media (min-width: 1536px) {
+  body {
+    background-size: cover;
+  }
+}
