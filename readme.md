@@ -1,4 +1,4 @@
-<h1 align="center"> Supli Álbuns </h1>
+<h1 align="center"> Supliu Álbuns </h1>
 
 <p align="center">
 "Supliu_albuns" é uma aplicação web construída com React e TypeScript que permite aos usuários visualizar e gerenciar álbuns de músicas. A aplicação utiliza o framework Tailwind CSS para estilização dos componentes e faz requisições à API utilizando a biblioteca Axios para recuperar dados dos álbuns. A validação dos formulários é realizada com o auxílio do pacote Yup. A aplicação é configurada para usar o Vite como bundler e desenvolvimento em ambiente isolado. Esta aplicação foi requerida como caso técnico para o processo seletivo da Supliu.<br/>
