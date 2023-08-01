@@ -28,7 +28,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Yup
 
 ## 💻 Projeto
+A aplicação pode ser acessado direto pelo link da vercel: https://supliu-technical-case.vercel.app/ 
 
+Se preferir, pode executar localhost:
 Antes de executar a aplicação, certifique-se de ter o Node.js instalado em seu sistema. Caso não tenha, você pode baixá-lo em https://nodejs.org/.
 
 Instale as dependências:
